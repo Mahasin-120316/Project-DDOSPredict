@@ -1,0 +1,14 @@
+ numpy
+ pandas
+ matplotlib
+ scikit-learn
+ sklearn==0.0
+ seaborn
+ xgboost
+
+ # python 3.10.0
+
+
+
+
+ 
